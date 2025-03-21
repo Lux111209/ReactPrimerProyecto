@@ -1,0 +1,17 @@
+.contenedor {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.contenedor2 {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 7.5px;
+    cursor: pointer;
+    margin: 10px;
+}
