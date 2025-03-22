@@ -1,0 +1,55 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1250px;
+  height: 100vh;
+  background-color: #e3eaf5;
+}
+
+.calculator-container {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  border: 2px solid #1b3b6f;
+}
+
+.title {
+  color: #1b3b6f;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.input-group {
+  margin: 10px 0;
+  text-align: left;
+}
+
+.input-group label {
+  display: block;
+  font-weight: bold;
+  color: #1b3b6f;
+}
+
+.input-field {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #1b3b6f;
+  border-radius: 5px;
+}
+
+.calculate-button {
+  background-color: #1b3b6f;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.calculate-button:hover {
+  background-color: #142c50;
+}
